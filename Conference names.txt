@@ -1,0 +1,7 @@
+1- Conference on Learning Theory (COLT)
+2- Journal of Computer and System Sciences
+3- Machine Learning
+4- ICML
+5- NIPS
+6- JMLR
+7- 
